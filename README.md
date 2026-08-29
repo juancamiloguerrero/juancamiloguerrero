@@ -1,6 +1,6 @@
 <div align="center">
 
-# Juan Camilo Guerrero
+# Juan Camilo Guerrero Ortega
 
 ### Full Stack Developer · Systems Engineer
 
